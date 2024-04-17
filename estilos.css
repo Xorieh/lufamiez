@@ -1,0 +1,31 @@
+.btn-wsp {
+    position: fixed;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    bottom: 30px;
+    right: 30px;
+    background-color: #0df053;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.3);
+    z-index: 100;
+  }
+  .wsp {
+    padding-bottom: 15px;
+  }
+  .bg-rojito {
+    background-color: #FE273B;
+  }
+  .blanco {
+    color: white;
+    font-variant: bold;
+  }
+  .negro {
+    color: #1d1d1d;
+  }
+  .foote {
+    background-color: #FE273B;
+    width: fit-content;
+}
